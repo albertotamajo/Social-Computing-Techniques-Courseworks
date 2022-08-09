@@ -1,2 +1,3 @@
 # Social-Computing-Techniques-Courseworks
-:school: University of Southampton - Social Computing Techniques (COMP3208) - Courseworks - 2021/2022
+This repository contains both Specifications and Handins for the **COMP3208-Social Computing Techniques** courseworks
+
